@@ -1,9 +1,13 @@
 # Customer Transactions Analytics Dashboard
 
 ## Overview
-This project is an end-to-end customer analytics solution that transforms raw customer and transaction data into interactive business insights using Python, SQL Server, and Power BI.
+This project simulates a real-world customer analytics platform used by businesses to track performance, identify trends, and support data-driven decision-making.
+
+It transforms raw customer and transaction data into structured, reliable insights using Python, SQL Server, and Power BI.
 
 Raw data in CSV and JSON format is cleaned and validated using Python, loaded into a SQL Server analytics database using a star-schema design, and visualized through an interactive Power BI dashboard.
+
+The solution demonstrates how transactional data can be converted into meaningful business intelligence, enabling analysis of customer behaviour, transaction trends, and regional performance.
 
 ---
 
