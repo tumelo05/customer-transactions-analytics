@@ -16,7 +16,7 @@ Raw data in CSV and JSON format is cleaned and validated using Python, loaded in
 
 ---
 
-## Technologies Used
+## Tech Stack
 - **Python**: Data cleaning and transformation
 - **SQL Server**: Data modeling, constraints, and analytics views
 - **Power BI**: Interactive dashboards and KPI reporting
