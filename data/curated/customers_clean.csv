@@ -1,0 +1,51 @@
+customer_id,email,name,city,state,registration_datetime
+f705437c-be19-45a8-8af9-f9aef2c8b93a,margaret.o@example.com,Margaret O'Kon,Yoshikofurt,South Carolina,2024-01-30 08:11:32+00:00
+0ae411be-4c04-46fd-a552-59cfed620766,jim.harber@example.com,Jim Harber,Daphneytown,Washington,2024-01-01 12:15:52+00:00
+51c246fd-d4b8-4e62-97e9-27fafc9f66cd,jodi.hyatt@example.com,Jodi Hyatt,East Jennings,Arkansas,2023-09-28 17:12:13+00:00
+62470fcb-4b42-45d7-85f4-cca01754282b,marty.lockman@example.com,Marty Lockman,North Emma,New York,2023-11-30 02:19:46+00:00
+d638134a-5d98-4a53-84f6-30bc1d1909eb,mrs.kautzer@example.com,Mrs. Regina Kautzer,Jaunitabury,Florida,2023-06-24 11:20:01+00:00
+ee1746a3-77f9-4688-86e8-f88c152999a5,mr.bins@example.com,Mr. Kristen Bins,Brookhaven,Nevada,2023-07-26 05:47:04+00:00
+e4fa2da8-c044-4468-bfee-8907c26686cf,garrett.beahan@example.com,Garrett Beahan,Port Kavon,Illinois,2024-01-09 14:23:00+00:00
+ac6ec763-0204-4634-99c5-09632c468026,bernadette.rolfson@example.com,Bernadette Rolfson,New Nicolette,Alaska,2023-03-17 01:44:08+00:00
+9846accb-2a17-4aa0-867d-9d9d141bc635,sabrina.schinner@example.com,Sabrina Schinner,Abilene,Nevada,2023-10-12 18:27:59+00:00
+8a60c199-6d25-4c79-9dfa-22ce59196e3e,dr.monahan@example.com,Dr. Brett Monahan I,North Giles,Oklahoma,2023-08-05 01:45:59+00:00
+bc9b611a-0344-4d37-8d60-97a00756c374,sam.legros@example.com,Sam Legros,Daly City,Wisconsin,2024-01-03 06:59:35+00:00
+1475707f-c65e-4d07-a4de-d7c7d5cb5442,courtney.schneider@example.com,Courtney Schneider,South Jasonside,New Hampshire,2023-03-14 15:23:27+00:00
+4eb73204-c1ee-47df-a651-9239dfb9e836,trevor.hoppe@example.com,Trevor Hoppe,New Maeland,Washington,2023-09-14 18:19:02+00:00
+f9f95fe6-517a-4964-9f96-e17030cfbf3c,terrell.lesch@example.com,Terrell Lesch Jr.,East Rowlandcester,Delaware,2023-03-30 02:26:41+00:00
+cdc59ba3-647d-41f6-8f0d-0d4153a1137a,michael.yundt@example.com,Michael Yundt,Jeromyside,Oklahoma,2023-04-11 05:44:05+00:00
+961c0949-5aeb-421a-94d6-5a9ca3ed65dd,olive.steuber@example.com,Olive Steuber,Florin,South Carolina,2023-07-06 00:42:24+00:00
+9e6e8df5-dae4-4b2a-83c3-06b9b6cf574a,lucia.wuckert@example.com,Lucia Wuckert,Onaland,Pennsylvania,2023-10-28 10:13:43+00:00
+2350121e-13d3-44da-899a-08090029100a,willard.predovic@example.com,Willard Predovic,Fort Karlie,Washington,2023-11-11 07:00:41+00:00
+77f88416-defe-4631-9285-3224bf9c0024,karl.sanford@example.com,Karl Sanford,Perris,Wyoming,2023-02-26 08:53:01+00:00
+1073b332-799d-4e11-ae66-f71632c48856,lora.little@example.com,Lora Little,Lake Sally,New Hampshire,2023-04-24 19:32:21+00:00
+a1e6e227-d131-4012-a17a-22ef3c36f5a1,claire.bauch@example.com,Claire Bauch,West Mikecester,West Virginia,2023-07-03 03:49:03+00:00
+d204bc7b-7469-4ef8-86e0-dabb4a88d160,edgar.green@example.com,Edgar Green,Parker,Connecticut,2023-08-12 14:45:44+00:00
+18113ded-1226-4cab-8ded-e9ce30116b4b,pat.keebler@example.com,Pat Keebler,Merrittton,Pennsylvania,2023-03-27 22:42:34+00:00
+52134279-d400-499b-9408-6ead049d14eb,darrin.mueller@example.com,Darrin Mueller,Corwinbury,West Virginia,2023-09-16 08:29:22+00:00
+c96fd812-39b7-4929-b1f5-89f5a77c81bc,jodi.altenwerth@example.com,Jodi Altenwerth II,West Dejaview,Missouri,2023-12-22 08:45:23+00:00
+cde63a50-777d-44a1-9534-6f7ecd4fbc94,kelly.welch@example.com,Kelly Welch,Danielville,New Jersey,2024-02-02 17:24:12+00:00
+4fcf5735-7b4a-420b-bf48-a99da3554a26,darin.steuber@example.com,Darin Steuber,Taylorsville,North Dakota,2023-12-24 14:49:03+00:00
+e5a1bb03-a103-4e99-9c4b-5d1cf6650410,jody.russel@example.com,Jody Russel,Port Julioport,New Mexico,2023-09-14 02:29:46+00:00
+9dd8e5c4-ff4d-424c-9ca2-7090e001a87b,jo.bogisich@example.com,Jo Bogisich,Fort Valentinefield,Alaska,2023-03-03 11:54:24+00:00
+6f904e79-1851-4c56-b67e-1bafc5211013,mrs.von@example.com,Mrs. Danny Von,Bowling Green,Vermont,2023-10-05 16:22:21+00:00
+9a2ff62b-9189-4b9c-92dc-1ca42146a725,mathew.orn@example.com,Mathew Orn,Alhambra,Arkansas,2023-11-24 05:21:24+00:00
+1303313c-b8c1-4c53-9f3d-7e198d387c6f,olivia.pagac@example.com,Olivia Pagac,North Savion,Iowa,2023-06-21 19:06:24+00:00
+bbb84c52-fd02-4ecf-a885-83c84512dcfd,jonathon.lang@example.com,Jonathon Lang,Port Katharinacester,California,2024-02-05 14:50:08+00:00
+4106d726-1f67-4d8a-9448-37a8da8e67d0,kathryn.klein@example.com,Kathryn Klein,North Wilfredstad,Oregon,2023-10-05 12:39:07+00:00
+79f81f7a-05e7-4f6f-97c5-989d10950055,lynn.auer@example.com,Lynn Auer Jr.,West Braxton,Louisiana,2023-07-28 11:33:20+00:00
+c9bc86d5-550b-4724-b716-7ec8b9792beb,teresa.hauck@example.com,Teresa Hauck,Pompano Beach,Minnesota,2023-08-22 14:26:32+00:00
+6f6dc0b0-87f2-41f1-aaaf-f4357a613065,kathy.keebler@example.com,Kathy Keebler,West Ruby,Mississippi,2023-10-12 00:17:07+00:00
+27440363-93ec-492b-8c70-b59846eccd89,bryant.koepp@example.com,Bryant Koepp,Schmidtboro,Delaware,2023-09-24 12:34:16+00:00
+0a8c5988-6e2d-43f7-8e0d-5e489009ba9c,mathew.heller@example.com,Mathew Heller I,North Orenchester,Alaska,2023-08-22 12:50:26+00:00
+6834ce84-7f15-4365-b5a8-2d367ece9286,milton.heidenreich@example.com,Milton Heidenreich,Boston,Nevada,2023-06-09 02:54:41+00:00
+415aa0fe-2fa3-413e-898b-699cb16228cd,chester.maggio@example.com,Chester Maggio,Yesseniatown,Washington,2023-08-05 06:49:59+00:00
+4c2d2fdb-05bc-4dfc-967b-8f5f0c609de8,mrs.price@example.com,Mrs. Dewey Price,East Amirtown,Georgia,2023-03-13 21:23:27+00:00
+1ab14986-74a5-416c-85c5-99a7211b07ed,elsie.schumm@example.com,Elsie Schumm PhD,Simonistown,Ohio,2023-07-06 14:57:57+00:00
+388054af-26f1-4a65-8511-cd4cec3f5c1b,sara.dickinson@example.com,Sara Dickinson,Lacey,Maine,2023-05-06 09:40:04+00:00
+a7fb33dd-c2bb-47f5-9150-b12704eae9c7,owen.fahey@example.com,Owen Fahey,Providence,New Jersey,2024-01-02 00:50:22+00:00
+60d1a443-5363-4407-823b-6e6df622750d,lorraine.johns@example.com,Lorraine Johns,Lornaport,Montana,2023-09-11 23:40:45+00:00
+c5b5f385-b615-49c7-afe3-d444d8a56c5f,jim.mccullough@example.com,Jim McCullough,Dickinsonfort,Texas,2023-12-16 13:44:24+00:00
+4fe39cac-e612-4cf6-863b-5d7cdb2c932c,maggie.spencer@example.com,Maggie Spencer,North Joan,Texas,2023-10-09 11:40:30+00:00
+8ecd9191-81d6-4615-9771-0a4e7a1f66aa,marjorie.murray@example.com,Marjorie Murray,Lake Ridge,Alaska,2023-09-26 07:39:04+00:00
+db9a9753-17dc-416e-b4bb-81dbe5c3305a,marcella.watsica@example.com,Marcella Watsica,Lake Rosieshire,Vermont,2024-01-22 16:50:55+00:00
