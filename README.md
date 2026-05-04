@@ -34,7 +34,7 @@ Raw data in CSV and JSON format is cleaned and validated using Python, loaded in
 ---
 
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://i.imgur.com/tKeQGIp.png)
 
 ---
 
